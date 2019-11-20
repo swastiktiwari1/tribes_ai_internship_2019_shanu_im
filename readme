@@ -1,0 +1,10 @@
+to run this project
+clone or download it
+
+and run newtribes.py
+
+Dependencies:
+neo4j
+pandas
+json
+codecs
