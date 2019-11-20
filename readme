@@ -1,7 +1,7 @@
-to run this project
+To run this project
 clone or download it
 
-and run newtribes.py
+Run newtribes.py
 
 
 Dependencies:
@@ -10,6 +10,6 @@ pandas
 json
 codecs
 
-a database should be created and runnig in neo4j
-if the database has different url or username or password then the url in the script 
-update the url username and the password in the script accordingly
+A database should be created and running in neo4j.
+If the database has different url or username or password than the url in the script, update the url,
+username and the password in the script accordingly
