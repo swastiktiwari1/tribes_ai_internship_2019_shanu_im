@@ -3,8 +3,13 @@ clone or download it
 
 and run newtribes.py
 
+
 Dependencies:
 neo4j
 pandas
 json
 codecs
+
+a database should be created and runnig in neo4j
+if the database has different url or username or password then the url in the script 
+update the url username and the password in the script accordingly
